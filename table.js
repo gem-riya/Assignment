@@ -39,9 +39,3 @@ function yourFunction(){
   }
 }
  
-/* <th>Name</th> */
-
-// header.js
-// document.write("<th>")
-// document.write(header[i])
-// document.write("</th>")
